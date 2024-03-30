@@ -51,7 +51,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 Special thanks to the contributors and developers who have helped make PulseSocial possible.
 
 **Contact:**
-For any inquiries or support, please contact the project maintainer at [email@example.com](mailto:email@example.com).
+For any inquiries or support, please contact the project maintainer at [email@example.com](mailto:mounishkr@gmail.com).
 
 **Disclaimer:**
 PulseSocial is an open-source project and should be used for educational and non-commercial purposes only. The developers are not responsible for any misuse of the application.
